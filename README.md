@@ -5,7 +5,7 @@ Hey Folks!
 This simple Python CLI tool allows you to retrieve details of any CVE (Common Vulnerabilities and Exposures) by just providing its CVE ID. The tool fetches data from the National Vulnerability Database (nvd.nist.gov) and displays it in your terminal, saving you time and eliminating the need to open a browser.
 ## Requirements
 Install termcolor python library for colored output.  
-You can you pip
+You can use pip
 ```
 pip install termcolor
 ```
